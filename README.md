@@ -11,8 +11,10 @@ L'objectif est de permettre des statistiques démographiques fines sur les tenda
 
 # Données de sortie 
 
-La sortie de cette jointure est disponible ici, au format Goejson et gpkg (geopackage) :
-https://github.com/raphaeljolivet/eu2024-stats-iris/releases/tag/1.0
+La sortie de cette jointure est disponible :
+* au [format Goejson](https://github.com/raphaeljolivet/eu2024-stats-iris/releases/download/1.0/iris-stats.geojson) 
+* au [format geopackage](https://github.com/raphaeljolivet/eu2024-stats-iris/releases/download/1.0/iris-stats.gpkg)
+
 
 # Utilisation
 
